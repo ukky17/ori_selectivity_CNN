@@ -2,7 +2,10 @@
 
 # Paper
 
-**Causal importance of low-level feature selectivity for generalization in image recognition.** Jumpei Ukita, Neural Networks, 2020. [Paper Link](https://www.sciencedirect.com/science/article/pii/S089360802030054X) [Short Version at NeurIPS2018 Workshop](https://ml-critique-correct.github.io/)
+**Causal importance of low-level feature selectivity for generalization in image recognition.** Jumpei Ukita, Neural Networks, 2020.
+
+[Paper Link](https://www.sciencedirect.com/science/article/pii/S089360802030054X)  
+[Short Version at NeurIPS2018 Workshop](https://ml-critique-correct.github.io/)
 
 # Tested environment
 * Keras 2.0.8
